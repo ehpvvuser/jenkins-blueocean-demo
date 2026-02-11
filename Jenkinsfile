@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo 'Hello from Jenkins Pipeline'
+        echo 'Hello from feature-1 Pipeline'
       }
     }
   }
